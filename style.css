@@ -80,3 +80,10 @@ nav ul li a {
     letter-spacing: 1px;
     text-decoration: none;
 }
+.imgBox img {
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    margin-top: 50px;
+}
